@@ -65,7 +65,6 @@ I'm a highly motivated **Full-Stack Developer** with a strong foundation in back
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAdel810&theme=react-dark)](https://github.com/MahmoudAdel810)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmoudAdel810&theme=dark)](https://git.io/streak-stats)
 
 
 
